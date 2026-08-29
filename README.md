@@ -9,6 +9,26 @@
   <img src="https://img.shields.io/badge/License-MIT-4AAEC1" alt="MIT License">
 </p>
 
+## 功能一览
+
+### 后台应用，集中到一处
+
+正在运行、适合从菜单栏访问的 App 会汇集成一张清晰列表。
+
+<p align="center"><img src="docs/feature-list.png" alt="MenuBarShelf 的后台菜单栏应用列表" width="900"></p>
+
+### 被挤出的应用也找得到
+
+菜单栏再拥挤，也能从列表重新发现仍在运行的工具。
+
+<p align="center"><img src="docs/feature-hidden.png" alt="MenuBarShelf 中显示的隐藏后台应用" width="900"></p>
+
+### 点击名称，直接唤醒
+
+无需翻找 Dock 或“应用程序”文件夹，一次点击即可打开目标 App。
+
+<p align="center"><img src="docs/feature-open.png" alt="从 MenuBarShelf 一键打开应用" width="900"></p>
+
 ## 亮点
 
 - 列出正在运行、适合从菜单栏访问的应用。
